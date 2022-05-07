@@ -1,0 +1,17 @@
+{
+	"recommendations": [
+		// Javascript/Typescript
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"stylelint.vscode-stylelint",
+		"wix.vscode-import-cost",
+		// VS Code
+		"VisualStudioExptTeam.vscodeintellicode",
+		"oderwat.indent-rainbow",
+		"vscode-icons-team.vscode-icons",
+		// Git
+		"donjayamanne.githistory",
+	],
+	"unwantedRecommendations": [
+	]
+}
